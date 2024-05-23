@@ -1,6 +1,9 @@
 ## Hi there 👋
-![Github Stats](https://github-readme-stats.vercel.app/api?username=mrman314&theme=dark&show_icons=true)
-![GitHub Streak](https://streak-stats.demolab.com/?user=MrMan314&theme=dark)
+<p align="center" width="100%">
+	<img src="https://github-readme-stats.vercel.app/api?username=mrman314&theme=dark&show_icons=true">
+	<br>
+	<img src="https://streak-stats.demolab.com/?user=MrMan314&theme=dark">
+</p>
 <!--
 **MrMan314/MrMan314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
