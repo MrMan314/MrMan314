@@ -1,8 +1,8 @@
 ## Hi there 👋
 <p align="center" width="100%">
-	<img src="https://github-readme-stats.vercel.app/api?username=mrman314&theme=dark&show_icons=true">
+	<img src="https://github-readme-stats.vercel.app/api?username=mrman314&theme=dark&show_icons=true" width="100%">
 	<br>
-	<img src="https://streak-stats.demolab.com/?user=MrMan314&theme=dark">
+	<img src="https://streak-stats.demolab.com/?user=MrMan314&theme=dark" width="100%">
 </p>
 <img src="https://komarev.com/ghpvc/?username=mrman314&color=brightgreen">
 <!--
