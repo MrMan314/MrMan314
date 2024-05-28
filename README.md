@@ -4,6 +4,7 @@
 	<br>
 	<img src="https://streak-stats.demolab.com/?user=MrMan314&theme=dark">
 </p>
+<img src="https://komarev.com/ghpvc/?username=mrman314&color=brightgreen">
 <!--
 **MrMan314/MrMan314** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
